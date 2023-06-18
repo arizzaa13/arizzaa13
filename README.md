@@ -5,9 +5,10 @@
 <h1 align="center">Hi 👋, I'm Mohd Arman</h1>
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png"/>
 <h3 align="center">An Enthusiastic Learner, and passionate about the world of Tech Developments in modern era.</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arizzaa13&label=Profile%20views&color=0e75b6&style=flat" alt="arizzaa13" /> </p>
 
 Here are few things about me:
+- 💬 Ask me about **Data Structures and Algorithms, Full Stack Web Development & Cloud Computing**
 
 
 - 📫 How to reach me:
