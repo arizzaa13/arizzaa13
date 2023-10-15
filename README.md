@@ -1,5 +1,7 @@
 ![Header](./github-header-image.png)
 
+[![An image of @arman's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arman)](https://holopin.io/@arman)
+
 
 
 <h1 align="center">Hi 👋, I'm Mohd Arman</h1>
