@@ -27,6 +27,4 @@ Here are few things about me:
 
 
 
-![Mohd Armnan's github stats](https://github-readme-stats.vercel.app/api?username=codearizzaa13&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=gruvbox)
-
                                                      
