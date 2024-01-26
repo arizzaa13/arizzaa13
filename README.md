@@ -26,7 +26,8 @@ Here are few things about me:
 
 <h1 align="left">Credly Credentials</h1>
 
-![getting-started-with-enterprise-data-science 2](https://github.com/arizzaa13/arizzaa13/assets/78647475/5aa982db-213f-4961-a873-743e19036219)   ![journey-to-cloud-envisioning-your-solution 2 (1)](https://github.com/arizzaa13/arizzaa13/assets/78647475/8aa600bf-fa0f-4397-9776-3ae70ae26bd6)     ![data-science-foundations-level-1 (1)](https://github.com/arizzaa13/arizzaa13/assets/78647475/85d841e8-b00a-4170-b169-05e3670e5478)        ![python-for-data-science (2)](https://github.com/arizzaa13/arizzaa13/assets/78647475/77f38d90-4cd9-4a19-b3e0-6c3057d09c99)
+![getting-started-with-enterprise-data-science 2 (1)](https://github.com/arizzaa13/arizzaa13/assets/78647475/a7f9b19f-2dc7-4a51-9fc1-92e59116a876)
+   ![journey-to-cloud-envisioning-your-solution 2 (1)](https://github.com/arizzaa13/arizzaa13/assets/78647475/8aa600bf-fa0f-4397-9776-3ae70ae26bd6)     ![data-science-foundations-level-1 (1)](https://github.com/arizzaa13/arizzaa13/assets/78647475/85d841e8-b00a-4170-b169-05e3670e5478)        ![python-for-data-science (2)](https://github.com/arizzaa13/arizzaa13/assets/78647475/77f38d90-4cd9-4a19-b3e0-6c3057d09c99)
 
 
 
