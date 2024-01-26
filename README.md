@@ -12,6 +12,7 @@
 Here are few things about me:
 - 💬 Ask me about **Data Structures and Algorithms, Full Stack Web Development & Cloud Computing**
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6be31975-bfe4-44e5-a448-aec042d281f0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 - 📫 How to reach me:
   - :email: **armanzara17@gmail.com**
