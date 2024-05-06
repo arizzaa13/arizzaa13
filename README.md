@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Mohd Arman</h1>
+<h1 align="center">Hi <img align="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" />, I'm Mohd Arman</h1>
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png"/>
 <h3 align="center">An Enthusiastic Learner, and passionate about the world of Tech Developments in modern era.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arizzaa13&label=Profile%20views&color=0e75b6&style=flat" alt="arizzaa13" /> </p>
