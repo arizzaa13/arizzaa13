@@ -16,8 +16,11 @@ Here are few things about me:
 - 📫 How to reach me:
   - :email: **armanzara17@gmail.com**
 <h3 align="left">Connect with me:<img align="center" src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" /></h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/mohd-arman17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mohd-arman17" height="30" width="40" /></a>
+<p>Feel free to connect with me anytime on any of the following platforms: </p>
+<a href = 'https://www.linkedin.com/in/mohd-arman17/'> <img align= 'center' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href = 'https://www.twitter.com/Arman72321'> <img align= 'center' src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> 
+<a href = 'mailto:armanzara17@gmail.com'> <img align= 'center' src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href = 'https://medium.com/@armanzara17'> <img align= 'center' src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a> 
 
 <hr></hr>
 <h3 align="left">Languages and Tools:</h3>
