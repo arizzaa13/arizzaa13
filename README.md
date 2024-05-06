@@ -26,6 +26,13 @@ Here are few things about me:
 
 <h2> My GitHub Stats <img align="center" src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32' /> </h2>
 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=arizzaa13&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&icon_color=FB8C00&ring_color=FB8C00" width="450px" height="195px" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaidRasinlic&theme=dark&hide_border=false" /><br> -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=arizzaa13&theme=dark" width="450px" height="195px" /><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arizzaa13&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /><br>
+</div>
+
 
 <h3 align="left">Credly Credentials:</h3>
 
